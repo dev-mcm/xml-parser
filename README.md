@@ -1,4 +1,4 @@
-# xmpl-parser
+# xml-parser
 Untangle evictions data using [untangle](https://github.com/stchris/untangle/blob/master/docs/index.rst)
 (documentation [here](https://untangle.readthedocs.io/en/latest/))
 
