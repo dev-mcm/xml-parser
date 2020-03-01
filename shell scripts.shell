@@ -1,6 +1,0 @@
-head -n 100 "data/LandlordTenantExtract2018.xml" > "output/2018_first100.xml"
-
-tail  "data/LandlordTenantExtract2018.xml" > "output/2018_tail.xml"
-
-
-head -n 100 "output/LandlordTenantExtract2018.json" > "output/2018_first100.json"
